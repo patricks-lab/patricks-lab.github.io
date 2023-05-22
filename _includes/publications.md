@@ -83,7 +83,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/1811.11124">LEASGD: An efficient and privacy-preserving decentralized algorithm for distributed learning</a></div>
-    <div class="author">Hsin-Pai Cheng<sup>*</sup>, Patrick Yu<sup>*</sup>, Haojing Hu<sup>*</sup>, Feng Yan, Shiyu Li, Hai Li, Yiran Chen (<sup>*</sup> indicates equal contribution)</div>
+    <div class="author">Hsin-Pai Cheng<sup>*</sup>, <strong>Patrick Yu<sup>*</sup></strong>, Haojing Hu<sup>*</sup>, Feng Yan, Shiyu Li, Hai Li, Yiran Chen (<sup>*</sup> indicates equal contribution)</div>
     <div class="periodical"><em>NeurIPS Workshop on Privacy-Preserving Machine Learning, 2018</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/1811.11124" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

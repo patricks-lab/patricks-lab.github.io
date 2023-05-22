@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student advised by Professor Su-In Lee at the AIMS lab of the Paul G. Allen School of Computer Science & Engineering.
+I am a Ph.D. student advised by Professor [Su-In Lee](https://aims.cs.washington.edu/su-in-lee) at the [AIMS Lab](https://aims.cs.washington.edu/) of the Paul G. Allen School of Computer Science & Engineering.
 
 Before my Ph.D. studies, I worked closely with Professor [Sanmi Koyejo](https://cs.stanford.edu/people/sanmi/), Professor [William Hwang](https://www.whwanglab.org/), and Professor [Yiran Chen](https://ece.duke.edu/faculty/yiran-chen), as well as graduate students [Brando Miranda](https://brando90.github.io/brandomiranda/home.html), [Jimmy Guo](https://aguirrelab.dana-farber.org/jimmy-guo.html), and [Hsin-Pai Cheng](https://newwhitecheng.github.io/).
 
