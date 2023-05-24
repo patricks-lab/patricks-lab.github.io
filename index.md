@@ -8,7 +8,7 @@ I am a Ph.D. student advised by Professor [Su-In Lee](https://aims.cs.washington
 
 Before my Ph.D. studies, I worked closely with Professor [Sanmi Koyejo](https://cs.stanford.edu/people/sanmi/), Professor [William Hwang](https://www.whwanglab.org/), and Professor [Yiran Chen](https://ece.duke.edu/faculty/yiran-chen), as well as graduate students [Brando Miranda](https://brando90.github.io/brandomiranda/home.html), [Jimmy Guo](https://aguirrelab.dana-farber.org/jimmy-guo.html), and [Hsin-Pai Cheng](https://newwhitecheng.github.io/).
 
-I previously received my Bachelor's degree in Computer Science at the University of Illinois at Urbana-Champaign in May of 2023.
+I previously received my Bachelor's degree (with honors) in Computer Science at the University of Illinois at Urbana-Champaign in May of 2023.
 
 ## Research Interests
 
