@@ -15,11 +15,6 @@ I previously received my Bachelor's degree in Computer Science at the University
 - **Computational Biology/Bioinformatics:** genomics/multi-omics, cancer biology, clinical healthcare
 - **Machine Learning:** explainable AI, meta-learning, federated learning, trustworthy machine learning
 
-
-## News
-
-- **[Sept. 2023]** I will begin my Computer Science PhD at the University of Washington starting Fall 2023, advised by Professor Su-In Lee!
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
